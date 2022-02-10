@@ -1,0 +1,28 @@
+.cta {
+  padding: 100px max(90px, 15%);
+  display: flex;
+  justify-content: center;
+}
+
+.ctaBox {
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  align-items: center;
+  padding: 40px 30px;
+  gap: 50px;
+  background-color: #3882f6;
+  color: white;
+  border-radius: 8px;
+}
+
+.ctaBtn {
+  border: 1px white solid;
+  background-color: #3882f6;
+  color: white;
+  padding: 8px 35px;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+}
